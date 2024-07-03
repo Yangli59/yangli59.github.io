@@ -11,7 +11,7 @@ I’m Yang Li, a scientist at GHDDI. I earned my Ph.D. under the guidance of Pro
 
 My passion lies in computer-aided drug design and applied research. I love diving deep into molecular simulations, leveraging artificial intelligence, and utilizing computational biology to uncover the mysteries of key target molecules. By combining these techniques with chemical and biological experiments, I aim to accelerate the discovery of new drug molecules.
 
-I’ve published over 10 research articles and reviews, but my true expertise shines in multiscale molecular dynamics simulations of biological systems. I’ve even developed new MD algorithms with enhanced sampling to explore the fascinating mechanisms behind target-ligand recognition processes.
+I’ve published over 10 research articles and reviews, and my true expertise shines in multiscale molecular dynamics simulations of biological systems. I’ve even developed new MD algorithms with enhanced sampling to explore the fascinating mechanisms behind molecules recognition processes.
 
 I’m always excited to share my journey and discoveries, so feel free to reach out if you’d like to chat about anything from molecular dynamics to AI in drug design!
 
