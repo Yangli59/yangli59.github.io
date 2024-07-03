@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Yang Li, a scientist at GHDDI. I earned my Ph.D. under the guidance of Prof. Jianping Lin at the [College of Pharmacy](https://pharmacy.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/). Following that, I had the incredible opportunity to work as a postdoctoral fellow under the supervision of Prof. Yuequan Shen at the [College of Life Science](https://sky.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/).
+I’m Yang Li, a scientist at GHDDI. I earned my Ph.D. under the guidance of Prof. Lin at the [College of Pharmacy](https://pharmacy.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/). Following that, I had the incredible opportunity to work as a postdoctoral fellow under the supervision of Prof. Shen at the [College of Life Science](https://sky.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/).
 
 My passion lies in computer-aided drug design and applied research. I love diving deep into molecular simulations, leveraging artificial intelligence, and utilizing computational biology to uncover the mysteries of key target molecules. By combining these techniques with chemical and biological experiments, I aim to accelerate the discovery of new drug molecules.
 
