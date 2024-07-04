@@ -15,7 +15,7 @@ I’ve published over 10 research articles and reviews, and my true expertise sh
 
 I’m always excited to share my journey and discoveries, so feel free to reach out if you’d like to chat about anything from molecular dynamics to AI in drug design!
 
-You can find my CV here: [YangLi's Curriculum Vitae](../assets/Curriculum_Vitae_YangLi.pdf).
+You can find my CV here: [Yang Li's Curriculum Vitae](../assets/Curriculum_Vitae_YangLi.pdf).
 
 [Email](mailto:yang.li@ghddi.org) / [Github](https://github.com/yangli59) / [Wechat](../images/wechat.jpg) / [Researchgate](https://www.researchgate.net/profile/Yang-Li-802)
 
