@@ -24,7 +24,7 @@ Work experience
     * Promote structure prediction, virtual screening and hit selection, and support hit-to-lead optimization and balance between potency and ADME properties.
     * Deeper understanding of diseases caused by respiratory viruses and their targets.
     * Assemble MD workflows to perform automated MD calculations and develop strategies that link structural features to potency or resistance.
-  * Supervisor: Dr. Jijiang Guo
+  * Supervisor: Dr. Jinjiang Guo
 
 * 2020.6 – 2023.6  Postdoctoral Fellow 
   * Nankai University
