@@ -6,7 +6,7 @@ excerpt: 'This study presents the discovery of novel A1 adenosine receptor (A1AR
 date: 2019-12-04
 venue: 'Eur. J. Med. Chem.'
 slidesurl: #'http://academicpages.github.io/files/slides4.pdf'
-paperurl: 'http://academicpages.github.io/files/paper4.pdf'
+paperurl: 'http://academicpages.github.io/files/paper5.pdf'
 citation: 'Yu Wei,Mukuo Wang, Yang Li et al. Identification of new potent A1 adenosine receptor antagonists using a multistage virtual screening approach. Eur J Med Chem 2020, 187:111936.'
 ---
 
