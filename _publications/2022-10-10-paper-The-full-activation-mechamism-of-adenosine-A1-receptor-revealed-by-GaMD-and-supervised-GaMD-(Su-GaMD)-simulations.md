@@ -6,7 +6,7 @@ excerpt: 'This study presents the development of a novel molecular dynamics simu
 date: 2022-10-10
 venue: 'Proc. Natl. Acad. Sci. U.S.A.'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://yangli59.github.io/files/paper1.pdf'
+paperurl: 'http://yangli59.github.io/files/paper2.pdf'
 citation: 'Yang Li, Jixue Sun, Dongmei Li et al. The full activation mechanism of the adenosine A1 receptor revealed by GaMD and Su-GaMD simulations. Proc Natl Acad Sci USA 2022, 119 (42)'
 ---
 
