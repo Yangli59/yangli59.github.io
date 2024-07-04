@@ -7,7 +7,7 @@ date: 2022-03-13
 venue: 'J. Biol. Chem'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Ren Y, Li Y, Wang Y, et al. Cryo-EM structure of the heptameric calcium homeostasis modulator 1 channel. J Biol Chem, 2022;298(5).'
+citation: 'Ren Y, Li Y, Wang Y, et al. Cryo-EM structure of the heptameric calcium homeostasis modulator 1 channel. J Biol Chem 2022,298(5).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
