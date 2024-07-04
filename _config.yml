@@ -12,7 +12,7 @@ title                    : "Yang Li / Scientist"
 title_separator          : "-"
 name                     : &name "Yang Li"
 description              : &description "I’m Yang Li, a researcher at GHDDI specializing in computer-aided drug design"
-url                      : https://yangli59.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yangli59.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
