@@ -1,7 +1,7 @@
 ---
 title: "Cryo-EM structure of the human TACAN in a closed state."
 collection: publications
-permalink: 'https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00172-3'
+permalink: '2022-03-01-paper-Cryo-EM-structure-of-the-human-TACAN-in-a-closed-state' #'https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00172-3'
 excerpt: 'This study reveals the cryo-electron microscopic structure of human TACAN (hTACAN), an ion channel-like protein potentially involved in sensing mechanical pain. hTACAN forms a dimer, with each protomer consisting of a transmembrane globular domain (TMD) and an intracellular domain (ICD). Molecular dynamics simulations indicate the presence of a putative ion conduction pore in each protomer. A single-point mutation at Met207 significantly increases membrane pressure-activated currents, and each hTACAN subunit binds one cholesterol molecule. These findings provide insights into the molecular assembly of hTACAN, suggesting that the wild-type protein is in a closed state.'
 date: 2022-03-01
 venue: 'Cell Rep.'
