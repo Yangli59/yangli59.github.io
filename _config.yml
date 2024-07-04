@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zH-CN"
-title                    : "Your Name / Site Title"
+locale                   : "zh-CN"
+title                    : "Yang Li / Site Title"
 title_separator          : "-"
 name                     : &name "Yang Li"
 description              : &description "I’m Yang Li, a researcher at GHDDI specializing in computer-aided drug design"
