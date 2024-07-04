@@ -1,7 +1,7 @@
 ---
 title: "Molecular Basis of Mg2+ Permeation through the Human Mitochondrial Mrs2 Channel."
 collection: publications
-permalink: 'https://www.nature.com/articles/s41467-023-40516-2'
+permalink: '/publications/paper2' #'https://www.nature.com/articles/s41467-023-40516-2'
 excerpt: 'This study elucidates the mechanism of Mg2+ permeation through Mitochondrial RNA splicing 2 (Mrs2), a eukaryotic CorA ortholog, by presenting four cryo-electron microscopy (cryo-EM) structures of Homo sapiens Mrs2 (hMrs2) under various conditions. The hMrs2 structures reveal symmetrical pentamers with a unique Cl−-bound R-ring formed by five Arg332 residues. Molecular dynamics simulations and mitochondrial Mg2+ uptake assays suggest that the R-ring acts as a charge repulsion barrier, while Cl− functions as a ferry to facilitate Mg2+ permeation, driven by the membrane potential. These findings provide significant insights into the channel assembly and function of hMrs2.'
 date: 2023-08-05
 venue: 'Nat. Commun.'
