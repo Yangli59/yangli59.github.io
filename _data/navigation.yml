@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "CV"
+    url: /cv/
     
   - title: #"SASS"
     url: #/sass/
@@ -16,10 +19,7 @@ main:
     url: #/posts/
     
   - title: #"Protfolio"
-    url: #/protfolio/
-            
-  - title: "CV"
-    url: /cv/
+    url: #/protfolio/       
     
-  - title: "Guide"
-    url: /markdown/
+  - title: #"Guide"
+    url: #/markdown/
