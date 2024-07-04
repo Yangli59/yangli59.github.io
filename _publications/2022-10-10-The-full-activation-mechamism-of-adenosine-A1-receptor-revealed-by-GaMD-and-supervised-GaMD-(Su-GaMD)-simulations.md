@@ -1,7 +1,7 @@
 ---
 title: "The full activation mechamism of adenosine A1 receptor revealed by GaMD and supervised GaMD (Su-GaMD) simulations."
 collection: publications
-permalink: 'https://www.pnas.org/doi/10.1073/pnas.2203702119'
+permalink: '2022-10-10-The-full-activation-mechamism-of-adenosine-A1-receptor-revealed-by-GaMD-and-supervised-GaMD-(Su-GaMD)-simulations' #'https://www.pnas.org/doi/10.1073/pnas.2203702119'
 excerpt: 'This study presents the development of a novel molecular dynamics simulation approach called supervised Gaussian accelerated MD (Su-GaMD), which successfully simulates the full activation mechanism of the adenosine A1 receptor (A1R) within hundreds of nanoseconds. By revealing the recognition pathways of both the agonist and G protein to the G protein–coupled receptor (GPCR), this research provides valuable structural insights into A1R, potentially advancing drug discovery efforts for targeting this receptor.'
 date: 2022-10-10
 venue: 'Proc. Natl. Acad. Sci. U.S.A.'
