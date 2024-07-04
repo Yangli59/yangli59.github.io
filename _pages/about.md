@@ -13,7 +13,7 @@ Dedicated to computer-aided drug design and applied research, my work focuses on
 
 With over 10 research articles and reviews published, my expertise shines in multiscale molecular dynamics simulations of biological systems. I've also developed new MD algorithms with enhanced sampling to explore the mechanisms behind molecular recognition processes.
 
-Always excited to share my journey and discoveries, I'm open to discussions about molecular dynamics, AI in drug design, or any related topic. Feel free to reach out.
+I am always excited to share my journey and discoveries, so feel free to reach out if you'd like to chat about molecular dynamics, AI in drug design, or any related topic.
 
 You can find my CV here: [Yang Li's Curriculum Vitae](../assets/Curriculum_Vitae_YangLi.pdf).
 
