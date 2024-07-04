@@ -6,7 +6,7 @@ excerpt: 'This study reveals the cryo-electron microscopic structure of human TA
 date: 2022-03-01
 venue: 'Cell Rep.'
 slidesurl: #'http://academicpages.github.io/files/slides6.pdf'
-paperurl: 'http://yangli59.github.io/files/paper6.pdf'
+paperurl: 'http://yangli59.github.io/files/paper4.pdf'
 citation: 'Xiaozhe Chen，Yaojie Wang，Yang Li et al. Cryo-EM structure of the human TACAN in a closed state. Cell Rep 2022, 38 (9): 110445. '
 ---
 
