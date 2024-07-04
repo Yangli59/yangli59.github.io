@@ -6,7 +6,7 @@ excerpt: 'This study elucidates the mechanism of Mg2+ permeation through Mitocho
 date: 2023-08-05
 venue: 'Nat. Commun.'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://yangli59.github.io/files/paper2.pdf'
+paperurl: 'http://yangli59.github.io/files/paper1.pdf'
 citation: 'Ming Li, Yang Li, Yue Lu et al. Molecular basis of Mg2+ permeation through the human mitochondrial Mrs2 channel. Nat Commun 14, 4713 (2023).'
 ---
 
