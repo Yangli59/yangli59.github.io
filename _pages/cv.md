@@ -33,7 +33,7 @@ Work experience
     * Develop a new advanced sampling molecular dynamics method called Su-GaMD simulations and visualise the activation mechanism of the adenosine A1 receptor.
     * Investigate the self-organisation of the heptameric/octameric calcium homeostasis modulator 1 channel.
     * Modelling the pore opening of the human TACAN after application of mimetic force.
-  * Supervisor: Professor Yuequan Shen
+  * Supervisor: Prof. Yuequan Shen
 
 Strength Summary
 ======
