@@ -1,7 +1,7 @@
 ---
 title: "The effect of dimerization on the activation and conformational dynamics of adenosine A1 receptor."
 collection: publications
-permalink: 'https://doi.org/10.1039/C9CP04060A'
+permalink: '/publications/paper5'#'https://doi.org/10.1039/C9CP04060A'
 excerpt: 'This study investigates the binding mode of 5′-N-ethylcarboxamidoadenosine (NECA) to the adenosine A1 receptor (A1R) and the effect of A1R dimerization on receptor activation. Using a combination of docking, metadynamics, conventional and Gaussian-accelerated molecular dynamics simulations, potential of mean force calculations, dynamic cross-correlation motion analysis, and community network analysis, the researchers found that NECA binds to A1R similarly to adenosine and NECA in related crystal structures. The study reveals that A1R homodimers can be activated by one or two NECA molecules, exhibiting an asymmetrical activation mechanism and negative cooperativity between the protomers. These findings enhance our understanding of A1R activation and could aid in A1R-targeted drug development.'
 date: 2019-10-02
 venue: 'Phys. Chem. Chem. Phys.'
